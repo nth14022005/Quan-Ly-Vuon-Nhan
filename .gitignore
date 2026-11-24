@@ -1,0 +1,14 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+packages/
+*.user
+*.suo
+*.cache
+*.bak
+*.mdf
+*.ldf
+*.log
+.env
+.env.*
